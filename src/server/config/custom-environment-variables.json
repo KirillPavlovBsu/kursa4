@@ -1,0 +1,7 @@
+{
+    "port": "PORT",
+    "client-origin": "CLIENT_ORIGIN",
+    "secret": "SECRET",
+    "dbUser": "DB_USER",
+    "dbPassword": "DB_PASSWORD"
+}

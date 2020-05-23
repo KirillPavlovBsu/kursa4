@@ -1,0 +1,9 @@
+{
+    "port": 8000,
+    "address": "localhost",
+    "dbName": "miss-me",
+    "client-origin": "http://localhost:8000",
+    "dbUser": "anonimus",
+    "dbPassword": "anonimus1",
+    "secret": "miss-me"
+}
